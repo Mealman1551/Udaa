@@ -12,9 +12,9 @@ Winget (Windows 10 or later)
 1. Download the setup down below from the releases tab and run it
 2. After installing use the command `udaa` in PowerShell or CMD
 
-### setup source code
+### Setup source code
 
-Setup source code is provided in thius repo, just remove the `#` from the iss file to use the source of the installer.
+Setup source code is provided in this repo, just remove the `#` from the iss file to use the source of the installer.
 (I've used `#` so the repo won't pick main language as Inno setup Script!)
 
 ## Source code
