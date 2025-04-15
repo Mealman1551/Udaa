@@ -14,12 +14,12 @@ Winget (Windows 10 or later)
 
 ### Setup source code
 
-Setup source code is provided in this repo, just remove the `#` from the iss file to use the source of the installer.
+Setup source code is provided in this repo in `/setup script`, just remove the `#` from the iss file to use the source of the installer.
 (I've used `#` so the repo won't pick main language as Inno setup Script!)
 
 ## Source code
 
-Source code is also in the repo.
+Source code is also in the repo in `/src`.
 
 ## Download
 
