@@ -19,7 +19,7 @@ Setup source code is provided in this repo in `/setup script`, just remove the `
 
 ## Source code
 
-Source code is also in the repo in `/src`.
+Source code is in `/src`.
 
 ## Download
 
