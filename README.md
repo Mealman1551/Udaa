@@ -1,7 +1,7 @@
-# Udaa
+# Udaa - Update All Applications
 [![License](https://img.shields.io/badge/Licensed%20under:-LNL%20v1.1-blue?style=plastic)](https://librenova-foundation.github.io/lnl.html)
 
-Udaa or UpDate All Apps is a Windows command that uses Winget for updating most software on your device.
+Udaa or UpDate All Applications is a Windows command that utilizes Winget for updating most software on your device.
 
 ## Requrements
 
