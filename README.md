@@ -23,7 +23,7 @@ Source code is in `/src`.
 
 ## Download
 
-### This patch is needed above the installation: [Patch download](https://gitlab.com/Mealman1551/cdn/-/raw/main/Udaa/udaa1.1.patch.exe?inline=false)
+### This patch is needed on top of the installation! this is <b>**NOT**</b> the program itsef!: [Patch download](https://gitlab.com/Mealman1551/cdn/-/raw/main/Udaa/udaa1.1.patch.exe?inline=false)
 This patch is the `python312.dll` that is missing in 1.1, please install Udaa from the link down below and after that download the patch!
 
 [Download](https://github.com/Mealman1551/Udaa/releases/latest)
