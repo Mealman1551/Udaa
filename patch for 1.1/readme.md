@@ -22,7 +22,6 @@ If still persisting errors of such please open a GitHub issue.
 
 
 Thank you,
-
-	~Mealman1551
+~Mealman1551
 
 ###### &copy; 2025 Mealman1551
